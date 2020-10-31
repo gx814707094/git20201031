@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.print.attribute.HashDocAttributeSet;
 import javax.validation.Valid;
 import java.util.List;
 
@@ -31,9 +32,9 @@ public class TestController {
 
     @PostMapping("/batch/add/person")
     public String batchAddPerson(@RequestBody @ValidList List<Person> personList){
-        System.out.println(personList.size());
-        return "ok";
+        return "感谢啊实打实大苏打";
     }
+
 
 
 
