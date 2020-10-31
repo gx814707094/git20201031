@@ -19,6 +19,10 @@ import java.util.List;
 @RestController
 @Validated
 public class TestController {
+    @PostMapping("/add/testgxdsb")
+    public String testgxdsb(){
+        return "testgxdsb";
+    }
 
     @PostMapping("/add/person")
     public String addPerson(@RequestBody @Valid Person person){
