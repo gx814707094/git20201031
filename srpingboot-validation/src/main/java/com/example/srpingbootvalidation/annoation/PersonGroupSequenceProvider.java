@@ -74,47 +74,7 @@ public class PersonGroupSequenceProvider implements DefaultGroupSequenceProvider
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
+
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
@@ -133,9 +93,9 @@ public class PersonGroupSequenceProvider implements DefaultGroupSequenceProvider
         if(person != null){
           Integer age = person.getAge();
           if(age < 5){
-//              defaultGroupSequence.add(Person.lev1.class);
+              defaultGroupSequence.add(Person.lev1.class);
           }else if(age < 18){
-//              defaultGroupSequence.add(Person.lev2.class);
+              defaultGroupSequence.add(Person.lev2.class);
           }else{
               defaultGroupSequence.add(Person.lev3.class);
           }

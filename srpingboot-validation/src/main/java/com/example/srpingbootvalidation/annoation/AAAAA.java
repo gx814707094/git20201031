@@ -7,6 +7,6 @@ package com.example.srpingbootvalidation.annoation;
  * @Created gengxiao
  */
 
-public @interface PersonLevelAnnoation {
+public @interface AAAAA {
 
 }
