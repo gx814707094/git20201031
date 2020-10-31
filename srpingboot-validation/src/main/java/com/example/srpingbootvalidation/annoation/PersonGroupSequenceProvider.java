@@ -28,11 +28,11 @@ public class PersonGroupSequenceProvider implements DefaultGroupSequenceProvider
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
+        System.out.println("我是耿");        System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
+        System.out.println("我是耿");
         //根据年龄进行组选择
         if(person != null){
           Integer age = person.getAge();
@@ -45,5 +45,9 @@ public class PersonGroupSequenceProvider implements DefaultGroupSequenceProvider
           }
         }
         return defaultGroupSequence;
+    }
+
+    public void test(){
+
     }
 }
