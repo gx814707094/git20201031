@@ -23,17 +23,14 @@ public class PersonGroupSequenceProvider implements DefaultGroupSequenceProvider
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是耿");        System.out.println("我是加王佛那个");
+
+
+        System.out.println("我是傻逼asdasdasdasdaddddddddddddddddddddddddddddddddddd");        System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
         System.out.println("asdasdasdas");
         System.out.println("asdasdasdas");
         System.out.println("asdasdasdas");
-        System.out.println("asdasdasdas");
+        System.out.println("asdasdaasdasdasdadssadasdsdas");
         System.out.println("asdasdasdas");
         System.out.println("asdasdasdas");
         System.out.println("asdasdasdas");
