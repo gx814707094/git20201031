@@ -30,10 +30,10 @@ public class PersonGroupSequenceProvider implements DefaultGroupSequenceProvider
         System.out.println("我是加王佛那个");
         System.out.println("我是耿");        System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
-        System.out.println("我是加王佛那个");
+        Sysasdasdasdasd6
+                5as
+            d45a
+
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
         System.out.println("我是加王佛那个");
